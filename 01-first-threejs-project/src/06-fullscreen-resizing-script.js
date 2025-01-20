@@ -1,6 +1,6 @@
 import * as three from "three";
 
-import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
+import { OrbitControls } from "three/addons/controls/OrbitControls.js";
 
 // Canvas
 const canvas = document.querySelector("canvas.webgl");
